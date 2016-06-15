@@ -1,0 +1,36 @@
+<div class="container">
+<form action="#" method="get" class="form-horizontal">
+    <div class="col-xs-12">
+        <div class="row">
+            <div class="col-xs-8">
+                <div class="form-group">
+                    <label for="language" class="control-label">{{choose_language}}:</label>
+                    <select name="language" id="language">
+                        <option value="html">HTML</option>
+                        <option value="php">PHP</option>
+                        <option value="xml">XML</option>
+                        <option value="smarty">Smarty</option>
+                        <option value="javascript">JAVASCRIPT</option>
+                        <option value="json">JSON</option>
+                        <option value="css">CSS</option>
+                        <option value="less">LESS</option>
+                        <option value="sass">SASS</option>
+                        <option value="sql">SQL</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12">
+        <div class="row">
+            <div class="form-group">
+                <label class="control-label" for="code">{{paste}}:</label>
+                <textarea class="form-control" name="code" id="code" rows="15" cols="20"></textarea>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-12">
+        <input id="insert-btn" type="button" class="btn btn-primary btn-block" value="Insert" />
+    </div>
+</form>
+</div>
