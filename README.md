@@ -8,7 +8,7 @@ Plugin [prism](http://prismjs.com/) for [tinymce](http://www.tinymce.com)
 
 ####Preview
 
-![prism tinymce](https://cloud.githubusercontent.com/assets/356674/16079824/aac8ee32-3305-11e6-9836-ada943a60438.png)
+![prism tinymce](https://cloud.githubusercontent.com/assets/356674/16079897/2285e31c-3306-11e6-9950-eaddd1a964ee.png)
 
 Authors
 -------
